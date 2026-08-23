@@ -1,0 +1,4 @@
+interface:
+  display_name: "Whiteboard"
+  short_description: "Create clear editable whiteboards for visual teaching"
+  icon: "buddy-skill-whiteboard-authoring.webp"

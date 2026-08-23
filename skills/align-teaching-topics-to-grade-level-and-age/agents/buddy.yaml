@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grade & Age Alignment"
+  short_description: "Match teaching depth and material to learner readiness"
+  icon: "buddy-skill-align-teaching-topics-to-grade-level-and-age.webp"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian"
+  short_description: "Work with Obsidian vaults, notes, links, and Canvas"
+  icon: "buddy-skill-obsidian.webp"

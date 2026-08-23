@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading"
+  short_description: "Read and analyze books, papers, articles, and resources"
+  icon: "buddy-skill-reading.webp"

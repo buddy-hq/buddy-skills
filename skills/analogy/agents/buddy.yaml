@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analogies"
+  short_description: "Build clear analogies that connect new ideas to familiar ones"
+  icon: "buddy-skill-analogy.webp"

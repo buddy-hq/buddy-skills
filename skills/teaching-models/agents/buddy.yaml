@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teaching Models"
+  short_description: "Choose the right teaching approach for the learner"
+  icon: "buddy-skill-teaching-models.webp"

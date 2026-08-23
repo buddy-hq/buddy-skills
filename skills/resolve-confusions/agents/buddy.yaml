@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolve Misconceptions"
+  short_description: "Replace faulty mental models and verify understanding"
+  icon: "buddy-skill-resolve-confusions.webp"

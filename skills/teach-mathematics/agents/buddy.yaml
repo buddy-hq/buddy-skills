@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Mathematics"
+  short_description: "Teach mathematics with figures, computation, and proof"
+  icon: "buddy-skill-teach-mathematics.webp"

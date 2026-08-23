@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Chemistry"
+  short_description: "Teach chemistry with inline structure and reaction diagrams"
+  icon: "buddy-skill-teach-chemistry.webp"

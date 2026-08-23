@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indian Competition Papers"
+  short_description: "Fetch official Indian competitive exam papers and answer keys"
+  icon: "buddy-skill-fetch-indian-competition-papers.webp"

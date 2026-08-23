@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teaching Resources"
+  short_description: "Create and revise assessments, worksheets, and rubrics"
+  icon: "buddy-skill-teaching-resource-authoring.webp"
