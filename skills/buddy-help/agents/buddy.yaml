@@ -1,4 +1,4 @@
 interface:
   display_name: "Buddy Help"
-  short_description: "How Buddy works: setup, workspace, skills, MCP"
+  short_description: "Help for Buddy features, setup, and settings"
   icon: "buddy-skill-buddy-help.webp"
